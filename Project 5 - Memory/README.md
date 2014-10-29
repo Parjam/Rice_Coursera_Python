@@ -1,5 +1,6 @@
 Memory game
 
+
 As usual, we suggest that you start from the program template for this mini-project.
 Model the deck of cards used in Memory as a list consisting of 16 numbers with each number lying in the range [0,8) and appearing twice. We suggest that you create this list by concatenating two list with range [0,8) together. Use the Docs to locate the list concatenation operator.
 Write a draw handler that iterates through the Memory deck using a for loop and uses draw_text to draw the number associated with each card on the canvas. The result should be a horizontal sequence of evenly-spaced numbers drawn on the canvas.
