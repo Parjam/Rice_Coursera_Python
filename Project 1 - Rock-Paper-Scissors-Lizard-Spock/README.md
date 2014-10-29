@@ -1,4 +1,4 @@
-Mini-project description — Rock-paper-scissors-lizard-Spock
+Rock-paper-scissors-lizard-Spock
 
 Rock-paper-scissors is a hand game that is played by two people. The players count to three in unison and simultaneously "throw” one of three hand signals that correspond to rock, paper or scissors. The winner is determined by the rules:
 
