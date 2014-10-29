@@ -1,4 +1,4 @@
-Memory
+Memory game
 
 As usual, we suggest that you start from the program template for this mini-project.
 Model the deck of cards used in Memory as a list consisting of 16 numbers with each number lying in the range [0,8) and appearing twice. We suggest that you create this list by concatenating two list with range [0,8) together. Use the Docs to locate the list concatenation operator.
